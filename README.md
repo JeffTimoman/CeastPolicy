@@ -1,0 +1,2 @@
+# CeastPolicy
+Policy of applications
